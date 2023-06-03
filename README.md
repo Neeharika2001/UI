@@ -1,1 +1,1 @@
-/Users/neeharikadamacharla/Desktop/ERD.png
+<img src="https://github.com/Neeharika2001/UI/blob/main/public/images/ERD.png" width="600"/>
